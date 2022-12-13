@@ -1,5 +1,5 @@
 <?php
-    $project_location = "";
+    $project_location = "/bem-ahp-main";
     $me = $project_location;
 
     $request = $_SERVER['REQUEST_URI'];
